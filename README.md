@@ -1,2 +1,2 @@
 # AlmaasUB
-Repositori Tugas GUI WEB
+Repositori Kumpulan Tugas GUI WEB (P.MOKO)
